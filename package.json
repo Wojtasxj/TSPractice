@@ -15,5 +15,8 @@
     "inquirer": "^8.2.4",
     "nodemon": "^2.0.20",
     "ts-node": "^8.10.2"
+  },
+  "dependencies": {
+    "consola": "^2.15.3"
   }
 }
